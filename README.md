@@ -21,3 +21,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS / ANGULAR / JAVA / DART
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=dennohkiragu)  
 
+<img src="https://raw.githubusercontent.com/dennohkiragu/dennohkiragu/master/resources/banner.png" alt="Welcome-To-My-Page">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-dennohkiragu/count.svg" />
+</p>
