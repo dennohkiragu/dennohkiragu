@@ -1,16 +1,13 @@
-### Hi there 👋
+🔭 I’m currently working at Amref Health Africa, but I do have a few solo projects 
 
-<!--
-**dennohkiragu/dennohkiragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning REACT, ANGULAR ,SQL and JAVASCRIPT
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on Flutter ,Angular and Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with any of my public repositories for any improvements or corrections
+
+💬 Ask me about best practices
+
+⚡ Fun fact I've re-watched venom(The movie) over 100times and counting
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennohkiragu)](https://github.com/anuraghazra/github-readme-stats)
