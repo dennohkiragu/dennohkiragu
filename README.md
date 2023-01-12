@@ -1,13 +1,23 @@
-🔭 I’m currently working at Amref Health Africa, but I do have a few solo projects 
+### Hi there 👋, my name is Denis Kiragu
+#### I am a software Developer with Amref Health Africa but I also work on solo projects
+I’m looking to collaborate on Flutter ,Angular and Javascript
 
-🌱 I’m currently learning REACT, ANGULAR ,SQL and JAVASCRIPT
+Skills: VUE JS / REACT / JS / HTML / CSS / ANGULAR / JAVA / DART 
 
-👯 I’m looking to collaborate on Flutter ,Angular and Javascript
+- 🔭 I’m currently working on Multiple Projects 
+- 🌱 I’m currently learning React, Angular and Database Management 
+- 👯 I’m looking to collaborate on Flutter  
+- 🤔 I’m looking for help with React and Angular 
+- 💬 Ask me about Gaming 
 
-🤝 I’m looking for help with any of my public repositories for any improvements or corrections
 
-💬 Ask me about best practices
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dennohkiragu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/DenisKiragu/)  
 
-⚡ Fun fact I've re-watched venom(The movie) over 100times and counting
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennohkiragu)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennohkiragu)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/dennohkiragu)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=dennohkiragu)  
+
