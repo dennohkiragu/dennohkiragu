@@ -2,7 +2,7 @@
 #### I am a software Developer with Amref Health Africa but I also work on solo projects
 I’m looking to collaborate on Flutter ,Angular and Javascript
 
-Skills: VUE JS / REACT / JS / HTML / CSS / ANGULAR / JAVA / DART 
+Skills:/ REACT / JS / HTML / CSS / ANGULAR / JAVA / DART / NODE /
 
 - 🔭 I’m currently working on Multiple Projects 
 - 🌱 I’m currently learning React, Angular and Database Management 
