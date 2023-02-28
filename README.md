@@ -6,7 +6,7 @@ Skills:/ REACT / JS / HTML / CSS / ANGULAR / JAVA / DART / NODE /
 
 - 🔭 I’m currently working on Multiple Projects 
 - 🌱 I’m currently learning React, Angular and Database Management 
-- 👯 I’m looking to collaborate on Flutter  
+- 👯 I’m looking to collaborate on React  
 - 🤔 I’m looking for help with React and Angular 
 - 💬 Ask me about Gaming 
 
