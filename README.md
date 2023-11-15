@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Denis Kiragu
 #### I am a software Developer with Amref Health Africa but I also work on solo projects
-I’m looking to collaborate on Flutter ,Angular and Javascript
+I’m looking to collaborate on React ,Angular ,Python and any other web development frameworks
 
-Skills:/ REACT / JS / HTML / CSS / ANGULAR / JAVA / DART / NODE /
+Skills:/ REACT / JS / HTML / CSS / ANGULAR / JAVA / DART / NODEJS / EXPRESSJS /C#
 
 - 🔭 I’m currently working on Multiple Projects 
 - 🌱 I’m currently learning React, Angular and Database Management 
