@@ -2,7 +2,7 @@
 #### I am a software Developer with Amref Health Africa but I also work on solo projects
 I’m looking to collaborate on React ,Angular ,Python and any other web development frameworks
 
-Skills:/ REACT / JS / HTML / CSS / PYTHON / ANGULAR / JAVA / DART / NODEJS / EXPRESSJS /C#
+Skills:/ REACT / JS / HTML / CSS / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS /C#
 
 - 🔭 I’m currently working on Multiple Projects 
 - 🌱 I’m currently learning React, Angular and Python 
