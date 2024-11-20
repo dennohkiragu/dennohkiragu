@@ -31,4 +31,8 @@ Skills:/ REACT / JS / HTML / CSS / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS 
   <img src="https://profile-counter.glitch.me/sagar-dennohkiragu/count.svg" />
 </p>
 
-![Snake animation](https://github.com/dennohkiragu/dennohkiragu/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
