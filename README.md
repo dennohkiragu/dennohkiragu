@@ -30,3 +30,5 @@ Skills:/ REACT / JS / HTML / CSS / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-dennohkiragu/count.svg" />
 </p>
+
+![Snake animation](https://github.com/dennohkiragu/dennohkiragu/blob/output/github-contribution-grid-snake.svg)
