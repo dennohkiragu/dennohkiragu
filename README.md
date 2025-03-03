@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Denis Kiragu
-#### I am a software Developer with Amref Health Africa but I also work on solo projects
+#### I am a software Developer.
 I’m looking to collaborate on React ,Angular ,Python and any other web development frameworks
 
 Skills:/ REACT / JS / HTML / CSS / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS /C#
