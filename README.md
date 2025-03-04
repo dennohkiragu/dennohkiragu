@@ -7,7 +7,6 @@ Skills:/ REACT / JS / HTML / CSS / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS 
 - 🔭 I’m currently working on Multiple Projects 
 - 🌱 I’m currently learning React, Angular and Python 
 - 👯 I’m looking to collaborate on React  
-- 🤔 I’m looking for help with Python
 - 💬 Ask me about Gaming 
 
 
