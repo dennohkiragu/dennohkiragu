@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Denis Kiragu
+### Hi there 👋, my name is Dennoh Kiragu
 #### I am a software Developer.
 I’m looking to collaborate on React ,Angular ,Python and any other web development frameworks
 
