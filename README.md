@@ -2,10 +2,10 @@
 #### I am a software Developer.
 I’m looking to collaborate on React ,Angular ,Python and any other web development frameworks
 
-Skills:/ REACT / JS / HTML / CSS / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS /C#
+Skills:/ REACT / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS /C#
 
 - 🔭 I’m currently working on Multiple Projects 
-- 🌱 I’m currently learning React, Angular and Python 
+- 🌱 I’m currently learning Machine learning and Python 
 - 👯 I’m looking to collaborate on React  
 - 💬 Ask me about Gaming 
 
