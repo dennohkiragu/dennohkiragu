@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dennoh Kiragu
 #### I am a software Developer.
-I’m looking to collaborate on React ,Angular ,Python and any other web development frameworks
+I’m looking to collaborate on React ,Angular ,Python and any other web development frameworks.
 
 Skills:/ REACT / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS /C#
 
