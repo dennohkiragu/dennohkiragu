@@ -80,8 +80,4 @@ Skills:/ REACT / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS /C#
 
 <img src="https://raw.githubusercontent.com/dennohkiragu/dennohkiragu/master/resources/banner.png" alt="Welcome-To-My-Page">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-dennohkiragu/count.svg" />
-</p>
 
