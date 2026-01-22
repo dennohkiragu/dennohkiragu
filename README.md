@@ -77,6 +77,7 @@ Skills:/ REACT / PYTHON / ANGULAR / JAVA / NODEJS / EXPRESSJS /C#
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dennohkiragu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennohkiragu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://raw.githubusercontent.com/dennohkiragu/dennohkiragu/master/resources/banner.png" alt="Welcome-To-My-Page">
 
