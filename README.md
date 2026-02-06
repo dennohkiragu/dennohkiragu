@@ -39,7 +39,7 @@ const dennoh = {
 - 🌱 Deep diving into **Machine Learning** and **Advanced Python**
 - 👯 Open to collaborate on **React, Angular, Python** and innovative web projects
 - 💬 Ask me about **Gaming, Web Development, or the latest tech trends**
-- 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 Reach me at: **[your-email@example.com](mailto:dennohkiragu@gmail.com)**
 - ⚡ Fun fact: **I turn coffee into code!**
 
 ---
