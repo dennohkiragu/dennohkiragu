@@ -5,9 +5,9 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Tech+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=dennohkiragu&color=blueviolet&style=for-the-badge)](https://github.com/dennohkiragu)
-  [![GitHub followers](https://img.shields.io/github/followers/dennohkiragu?style=for-the-badge&color=blue)](https://github.com/dennohkiragu?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/dennohkiragu?style=for-the-badge&color=yellow)](https://github.com/dennohkiragu?tab=repositories)
+  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdennohkiragu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+  [![GitHub followers](https://img.shields.io/github/followers/dennohkiragu?style=for-the-badge&color=blue&logo=github)](https://github.com/dennohkiragu?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/dennohkiragu?style=for-the-badge&color=yellow&logo=github)](https://github.com/dennohkiragu?tab=repositories)
   
 </div>
 
@@ -117,10 +117,10 @@ const dennoh = {
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dennohkiragu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dennohkiragu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dennohkiragu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=dennohkiragu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennohkiragu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennohkiragu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
   
 </div>
 
@@ -130,7 +130,7 @@ const dennoh = {
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=dennohkiragu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+  ![](https://github-profile-trophy.vercel.app/?username=dennohkiragu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
   
 </div>
 
@@ -140,7 +140,7 @@ const dennoh = {
 
 <div align="center">
   
-  [![Dennoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennohkiragu&theme=tokyo-night&hide_border=true)](https://github.com/dennohkiragu)
+  [![Dennoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennohkiragu&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/dennohkiragu)
   
 </div>
 
@@ -231,7 +231,16 @@ print(me.get_status())
 
 <div align="center">
 
-![Snake animation](https://github.com/dennohkiragu/dennohkiragu/blob/output/github-contribution-grid-snake.svg)
+<!-- 
+To enable the snake animation:
+1. Create a new file: .github/workflows/snake.yml in your profile repository
+2. Copy the snake workflow code from: https://github.com/Platane/snk
+3. The snake will be generated automatically via GitHub Actions
+-->
+
+![Snake animation](https://raw.githubusercontent.com/dennohkiragu/dennohkiragu/output/github-contribution-grid-snake.svg)
+
+*Note: Snake animation requires GitHub Actions setup. See the HTML comment above for instructions.*
 
 </div>
 
@@ -251,8 +260,9 @@ print(me.get_status())
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/dennohkiragu/count.svg)
-  
   **Thank you for visiting my profile! Happy Coding! 🚀**
+  
+  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
   
 </div>
