@@ -5,9 +5,11 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Tech+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
   
-  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdennohkiragu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-  [![GitHub followers](https://img.shields.io/github/followers/dennohkiragu?style=for-the-badge&color=blue&logo=github)](https://github.com/dennohkiragu?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/dennohkiragu?style=for-the-badge&color=yellow&logo=github)](https://github.com/dennohkiragu?tab=repositories)
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=dennohkiragu&color=blueviolet&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/dennohkiragu?style=flat-square&color=blue&logo=github)
+  ![GitHub User's stars](https://img.shields.io/github/stars/dennohkiragu?style=flat-square&color=yellow&logo=github)
   
 </div>
 
@@ -116,13 +118,48 @@ const dennoh = {
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+### Option 1: GitHub Readme Stats
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dennohkiragu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=dennohkiragu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dennohkiragu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dennohkiragu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennohkiragu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
+  <br/>
   
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennohkiragu&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+
 </div>
+
+<!-- If the above stats don't load, uncomment this alternative section -->
+<!--
+<div align="center">
+
+### Option 2: GitHub Profile Summary Cards
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dennohkiragu&theme=tokyonight)
+
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dennohkiragu&theme=tokyonight" alt="Stats"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dennohkiragu&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
+
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dennohkiragu&theme=tokyonight" alt="Repos Per Language"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dennohkiragu&theme=tokyonight" alt="Most Commit Language"/>
+
+</div>
+-->
+
+<!-- Option 3: Simple GitHub Stats (Most Reliable) -->
+<!--
+<div align="center">
+
+| 📊 **GitHub Stats** | 🔥 **Streak Stats** |
+|:---:|:---:|
+| ![](https://github-readme-stats.vercel.app/api?username=dennohkiragu&show_icons=true&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com/?user=dennohkiragu&theme=radical) |
+
+### 🔝 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennohkiragu&layout=compact&theme=radical)
+
+</div>
+-->
 
 ---
 
