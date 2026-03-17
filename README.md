@@ -46,7 +46,7 @@ Git • GitHub • Figma • VS Code • Docusaurus
 
 ## 💼 Featured Projects
 
-### ESRC Platform
+### Science, Research and Ethics Platform
 Research ethics review system with workflow, document upload, and approvals.
 
 ### Garage SaaS System
