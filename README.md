@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dennoh%20Kiragu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 # 👋 Hi, I'm Dennoh Kiragu
 
-### Full Stack Developer | React • Angular • C# • TypeScript • Python
+### Full Stack Developer | React • Angular • .NET • TypeScript • Python
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+real+world+web+platforms;Full+Stack+Developer;Exploring+Machine+Learning+and+Python;Always+learning%2C+always+building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+real+world+web+platforms;Full+Stack+Developer;Machine+Learning+Explorer;Always+learning%2C+always+building" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dennohkiragu&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/dennohkiragu?style=flat-square)
@@ -16,47 +18,48 @@
 
 ## 🚀 About Me
 
-I’m a **Full Stack Developer based in Nairobi, Kenya**, focused on building practical systems that solve real-world problems.
+I’m a **Full Stack Developer based in Nairobi, Kenya** focused on building real-world platforms and business systems.
 
-- 🔭 Building full stack platforms and business systems  
+- 🔭 Building full stack applications and SaaS platforms  
 - 🌱 Learning Machine Learning and advanced Python  
-- 👯 Open to collaboration on full stack projects  
+- 👯 Open to collaboration on React / Angular / .NET / APIs  
+- 💬 Ask me about system design, web apps, backend, or dev workflows  
 - ⚡ Fun fact: I still debug with `console.log()` 😄  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
-C# • JavaScript • TypeScript • Python • Java • SQL  
+### Languages
+C# • JavaScript • TypeScript • Python • Java • SQL
 
-**Frontend**  
-React • Angular • Tailwind • Bootstrap  
+### Frontend
+React • Angular • Tailwind • Bootstrap • MUI
 
-**Backend**  
-.NET • Node.js • Express  
+### Backend
+.NET • Node.js • Express • REST APIs
 
-**Database**  
-PostgreSQL • MongoDB • SQLite • SQL Server  
+### Database
+PostgreSQL • MongoDB • SQLite • SQL Server
 
-**Tools**  
-Git • GitHub • Figma • VS Code • Docusaurus  
+### Tools
+Git • GitHub • VS Code • Figma • Docusaurus • Docker
 
 ---
 
 ## 💼 Featured Projects
 
-### Science, Research and Ethics Platform
-Research ethics review system with workflow, document upload, and approvals.
+### 🔹 ESRC Platform
+Research ethics review system with workflow, document uploads, approvals, and tracking.
 
-### Garage SaaS System
-Multi-tenant garage management system with job cards, invoices, mechanics, and roles.
+### 🔹 Garage SaaS System
+Multi-tenant garage management system with job cards, invoices, mechanics, cars, and role-based permissions.
 
-### SSO Portal
-Single Sign-On portal using Microsoft Auth, JWT, and Keycloak.
+### 🔹 SSO Portal
+Single sign-on portal connecting multiple systems using Microsoft Auth, JWT, and Keycloak.
 
-### Documentation Platform
-Docusaurus + TinaCMS documentation site with Git integration.
+### 🔹 Documentation Platform
+Docusaurus + TinaCMS documentation system with Git-based editing.
 
 ---
 
@@ -88,17 +91,16 @@ Docusaurus + TinaCMS documentation site with Git integration.
 
 ---
 
-## 🎮 Outside Coding
+## 🏆 Achievements
 
-Gaming • Coffee • Learning • Side projects
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=dennohkiragu&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-## 📫 Contact
-
-Email: dennohkiragu@gmail.com  
-GitHub: https://github.com/dennohkiragu
+</div>
 
 ---
 
-### Code • Learn • Build • Repeat
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/dennohkiragu/dennohkiragu/output/github-contribution-grid-snake.svg)
