@@ -1,106 +1,171 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dennoh%20Kiragu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:161B22,70:238636,100:2EA043&text=Dennoh%20Kiragu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 👋 Hi, I'm Dennoh Kiragu
+<h1>
+Full Stack Developer
+</h1>
 
-### Full Stack Developer | React • Angular • .NET • TypeScript • Python
+<p>
+Building scalable web applications with
+<strong>React</strong>,
+<strong>.NET</strong>,
+<strong>TypeScript</strong>,
+<strong>Angular</strong>,
+and
+<strong>Python</strong>.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+real+world+web+platforms;Full+Stack+Developer;Machine+Learning+Explorer;Always+learning%2C+always+building" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=dennohkiragu&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/dennohkiragu?style=flat-square)
-![Stars](https://img.shields.io/github/stars/dennohkiragu?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;Full+Stack+Developer;React+%7C+.NET+%7C+Angular+%7C+Python;Always+Learning.+Always+Building."/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I’m a **Full Stack Developer based in Nairobi, Kenya** focused on building real-world platforms and business systems.
+```javascript
+const dennoh = {
+    location: "Nairobi, Kenya",
 
-- 🔭 Building full stack applications and SaaS platforms  
-- 🌱 Learning Machine Learning and advanced Python  
-- 👯 Open to collaboration on React / Angular / .NET / APIs  
-- 💬 Ask me about system design, web apps, backend, or dev workflows  
-- ⚡ Fun fact: I still debug with `console.log()` 😄  
+    role: "Full Stack Developer",
+
+    languages: [
+        "C#",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "SQL"
+    ],
+
+    frontend: [
+        "React",
+        "Angular",
+        "Material UI",
+        "Tailwind"
+    ],
+
+    backend: [
+        ".NET",
+        "Node.js",
+        "REST APIs"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "SQL Server",
+        "MongoDB"
+    ],
+
+    devops: [
+        "Docker",
+        "GitHub Actions",
+        "Nginx"
+    ],
+
+    currentlyLearning: [
+        "Machine Learning",
+        "AI Agents",
+        "Cloud Architecture"
+    ]
+}
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
 
-### Languages
-C# • JavaScript • TypeScript • Python • Java • SQL
+### 🧬 ESRC Platform
 
-### Frontend
-React • Angular • Tailwind • Bootstrap • MUI
+Research Ethics Review System
 
-### Backend
-.NET • Node.js • Express • REST APIs
-
-### Database
-PostgreSQL • MongoDB • SQLite • SQL Server
-
-### Tools
-Git • GitHub • VS Code • Figma • Docusaurus • Docker
+- Workflow Automation
+- Document Review
+- Protocol Tracking
+- Role-Based Access
+- Online Payments
 
 ---
 
-## 💼 Featured Projects
+### 🚗 Garage SaaS
 
-### 🔹 ESRC Platform
-Research ethics review system with workflow, document uploads, approvals, and tracking.
+Garage Management Platform
 
-### 🔹 Garage SaaS System
-Multi-tenant garage management system with job cards, invoices, mechanics, cars, and role-based permissions.
-
-### 🔹 SSO Portal
-Single sign-on portal connecting multiple systems using Microsoft Auth, JWT, and Keycloak.
-
-### 🔹 Documentation Platform
-Docusaurus + TinaCMS documentation system with Git-based editing.
+- Multi Tenant
+- Job Cards
+- Inventory
+- Invoicing
+- Reports
 
 ---
 
-## 📊 GitHub Stats
+### 🔐 One Portal SSO
+
+Enterprise authentication platform
+
+- Microsoft Authentication
+- JWT
+- Keycloak
+- Single Sign-On
+
+---
+
+### 📚 Documentation Platform
+
+Built with
+
+- Docusaurus
+- TinaCMS
+- GitHub
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,dotnet,nodejs,python,postgres,mongodb,docker,git,github,vscode,figma&perline=7"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dennohkiragu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dennohkiragu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dennohkiragu&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennohkiragu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennohkiragu&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dennohkiragu&theme=tokyo-night&hide_border=true"/>
+<a href="https://github.com/dennohkiragu">
+GitHub
+</a>
+•
+<a href="https://linkedin.com/in/YOUR-LINK">
+LinkedIn
+</a>
+•
+<a href="mailto:YOUR_EMAIL">
+Email
+</a>
 
-</div>
+</p>
 
 ---
 
-## 🏆 Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dennohkiragu&theme=tokyonight&no-frame=true&row=1&column=6"/>
+### "Great software isn't built by accident—it's engineered with purpose."
+
+⭐ If you like my work, consider following me!
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-![snake](https://raw.githubusercontent.com/dennohkiragu/dennohkiragu/output/github-contribution-grid-snake.svg)
