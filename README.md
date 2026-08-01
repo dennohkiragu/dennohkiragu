@@ -10,6 +10,7 @@ Full Stack Developer
 Building scalable web applications with
 <strong>React</strong>,
 <strong>.NET</strong>,
+<strong>Java</strong>,
 <strong>TypeScript</strong>,
 <strong>Angular</strong>,
 and
@@ -32,6 +33,7 @@ const dennoh = {
 
     languages: [
         "C#",
+        "Java",
         "TypeScript",
         "JavaScript",
         "Python",
