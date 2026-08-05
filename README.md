@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:161B22,70:238636,100:2EA043&text=Dennoh%20Kiragu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h1>
-Full Stack Developer
+Full-Stack Software Developer & Systems Engineer
 </h1>
 
 <p>
