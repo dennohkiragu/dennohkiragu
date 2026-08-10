@@ -9,10 +9,10 @@ Full-Stack Software Developer & Systems Engineer
 <p>
 Building scalable web applications with
 <strong>React</strong>,
+<strong>Angular</strong>,
 <strong>.NET</strong>,
 <strong>Java</strong>,
 <strong>TypeScript</strong>,
-<strong>Angular</strong>,
 and
 <strong>Python</strong>.
 </p>
