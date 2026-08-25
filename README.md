@@ -144,7 +144,7 @@ GitHub
 LinkedIn
 </a>
 •
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dennohkiragu@gmail.com">
 Email
 </a>
 
