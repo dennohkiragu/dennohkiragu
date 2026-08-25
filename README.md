@@ -89,7 +89,7 @@ Research Ethics Review System
 
 ---
 
-### 🚗 Garage SaaS
+### 🚗 Garage SaaS Platform
 
 Garage Management Platform
 
